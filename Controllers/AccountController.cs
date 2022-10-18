@@ -20,7 +20,7 @@ namespace Biblioteca.Controllers
                     return NotFound(new { message = "Usuário ou senha inválidos." });
 
                 //Gera o Token
-                var token = TokenService.GenerateToken(user);
+                var token = TokenService.GenerateToken(user);sdgfuy
 
                 //oculta senha
                 user.Password = "";
