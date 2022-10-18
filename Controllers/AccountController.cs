@@ -1,7 +1,4 @@
-﻿using Biblioteca.Domain.Models;
-using Biblioteca.Infra.Repositories;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace Biblioteca.Controllers
 {
@@ -20,7 +17,7 @@ namespace Biblioteca.Controllers
                     return NotFound(new { message = "Usuário ou senha inválidos." });
 
                 //Gera o Token
-                var token = TokenService.GenerateToken(user);sdgfuy
+                var token = TokenService.GenerateToken(user);
 
                 //oculta senha
                 user.Password = "";
