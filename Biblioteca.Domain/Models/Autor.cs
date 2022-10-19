@@ -1,12 +1,13 @@
-﻿using Biblioteca.Domain.Models.ValueObjects;
+﻿using Biblioteca.Domain.Enums;
+using Biblioteca.Domain.Models.ValueObjects;
 
 namespace Biblioteca.Domain.Models
 {
     public class Autor : Pessoa
     {
         public Autor(Nome nome, Endereco endereco, int rg, string cpf, DateTime dataNascimento, 
-            string email, string telefone)
-            : base(nome, endereco, rg, cpf, dataNascimento, email, telefone)
+            string email, string telefone, ESexo sexo)
+            : base(nome, endereco, rg, cpf, dataNascimento, email, telefone, sexo)
         {
             
         }

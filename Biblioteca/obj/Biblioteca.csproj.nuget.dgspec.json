@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\dev\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\dev\\Biblioteca\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Biblioteca-webapi\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\dev\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\dev\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\22281\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca\\obj\\",
+        "outputPath": "C:\\dev\\Biblioteca\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\22281\\AppData\\Roaming\\NuGet\\NuGet.Config",

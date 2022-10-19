@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca.Shared\\Biblioteca.Shared.csproj": {}
+    "C:\\dev\\Biblioteca\\Biblioteca.Shared\\Biblioteca.Shared.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca.Shared\\Biblioteca.Shared.csproj": {
+    "C:\\dev\\Biblioteca\\Biblioteca.Shared\\Biblioteca.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Shared\\Biblioteca.Shared.csproj",
+        "projectUniqueName": "C:\\dev\\Biblioteca\\Biblioteca.Shared\\Biblioteca.Shared.csproj",
         "projectName": "Biblioteca.Shared",
-        "projectPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Shared\\Biblioteca.Shared.csproj",
+        "projectPath": "C:\\dev\\Biblioteca\\Biblioteca.Shared\\Biblioteca.Shared.csproj",
         "packagesPath": "C:\\Users\\22281\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Shared\\obj\\",
+        "outputPath": "C:\\dev\\Biblioteca\\Biblioteca.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\22281\\AppData\\Roaming\\NuGet\\NuGet.Config",

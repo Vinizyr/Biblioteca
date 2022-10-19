@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jwB5Ia6yvzTRFhExjeSI/o3HJrI5ziRIUAZIk+IAxV+P0i+Dg2XzUzZ8250byAv6EE9mb9wInarFF8FeZw8U7Q==",
+  "dgSpecHash": "gqubFhFK7nwBezA+eSqsA9UfP7JHZshLHnlJO1SlWe79psGHhPDCLVyrqwAniI2taNfyyOqplj237/b+jlQv5A==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
+  "projectFilePath": "C:\\dev\\Biblioteca\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "si2HutxfMEyB7eNz5SceP/tDSI2sApfTEz6JBiSDFyw30tLk7FaELodI3z9udXk/+c4gBd92KmT07DwsrYgavg==",
+  "dgSpecHash": "PJAtQHtIr6XYQJi948N5ImLXtUhNgmRW1hzEsIeEHbikzeaCOB/CeDbTJBMt+DU/9iW4Vza0g269NX9lVNE4iw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Biblioteca-webapi\\Biblioteca\\Biblioteca.csproj",
+  "projectFilePath": "C:\\dev\\Biblioteca\\Biblioteca\\Biblioteca.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

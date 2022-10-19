@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {}
+    "C:\\dev\\Biblioteca\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {
+    "C:\\dev\\Biblioteca\\Biblioteca.Infra\\Biblioteca.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
+        "projectUniqueName": "C:\\dev\\Biblioteca\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
         "projectName": "Biblioteca.Infra",
-        "projectPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
+        "projectPath": "C:\\dev\\Biblioteca\\Biblioteca.Infra\\Biblioteca.Infra.csproj",
         "packagesPath": "C:\\Users\\22281\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Biblioteca-webapi\\Biblioteca.Infra\\obj\\",
+        "outputPath": "C:\\dev\\Biblioteca\\Biblioteca.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\22281\\AppData\\Roaming\\NuGet\\NuGet.Config",
