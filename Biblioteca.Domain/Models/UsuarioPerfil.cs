@@ -13,5 +13,7 @@ namespace Biblioteca.Domain.Models
 
         public int PerfilId { get; set; }
         public virtual Perfil Perfil { get; set; }
+
+        public bool Ativo { get; set; }
     }
 }

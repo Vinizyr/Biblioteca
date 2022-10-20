@@ -1,9 +1,11 @@
 ﻿namespace Biblioteca.Domain.Models
 {
-    public class DevolucaoLivro
+    public class Devolucao
     {
         public int DevolucaoId { get; set; }
-        public int EmprestimoId { get; set; }        
         public float? MultaAtraso { get; set; }
+
+        public int EmprestimoId { get; set; }
+        public virtual Emprestimo Emprestimo { get; set; }
     }
 }

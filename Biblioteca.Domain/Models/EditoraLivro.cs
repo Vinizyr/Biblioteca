@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Biblioteca.Domain.Models
 {
-    public class Estoque
+    public class EditoraLivro
     {
-        public int Id { get; set; }
-        public int QtdLivrosEstoque { get; set; }
+        public int EditoraId { get; set; }
+        public virtual Editora Editora { get; set; }
 
         public int LivroId { get; set; }
         public virtual Livro Livro { get; set; }

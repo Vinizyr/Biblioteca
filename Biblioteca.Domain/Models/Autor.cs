@@ -3,16 +3,12 @@ using Biblioteca.Domain.Models.ValueObjects;
 
 namespace Biblioteca.Domain.Models
 {
-    public class Autor : Pessoa
+    public class Autor
     {
-        public Autor(Nome nome, Endereco endereco, int rg, string cpf, DateTime dataNascimento, 
-            string email, string telefone, ESexo sexo)
-            : base(nome, endereco, rg, cpf, dataNascimento, email, telefone, sexo)
-        {
-            
-        }
+        public int AutorId { get; set; }
+        public string Nome { get; set; }
 
-        public int PessoaId { get; private set; }
-        public virtual Pessoa Pessoa { get; private set; }
+        public int LivroId { get; set; }
+        public virtual Livro Livro { get; set; }
     }
 }
